@@ -1,8 +1,8 @@
 <?php
 
-namespace MarcW\Heroicons\Tests\Bundle\DependencyInjection;
+namespace MarcW\Heroicons\Tests\DependencyInjection;
 
-use MarcW\Heroicons\Bundle\DependencyInjection\MarcWHeroiconsExtension;
+use MarcW\Heroicons\DependencyInjection\MarcWHeroiconsExtension;
 use MarcW\Heroicons\Twig\HeroiconsExtension;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

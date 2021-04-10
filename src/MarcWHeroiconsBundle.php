@@ -1,6 +1,6 @@
 <?php
 
-namespace MarcW\Heroicons\Bundle;
+namespace MarcW\Heroicons;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
