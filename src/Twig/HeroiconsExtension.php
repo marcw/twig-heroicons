@@ -3,6 +3,7 @@
 namespace MarcW\Heroicons\Twig;
 
 use MarcW\Heroicons\Heroicons;
+use Twig\TwigFunction;
 use Twig\Extension\AbstractExtension;
 
 class HeroiconsExtension extends AbstractExtension
