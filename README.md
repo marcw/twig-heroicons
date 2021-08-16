@@ -39,13 +39,13 @@ This extension provides a `heroicon` function that outputs the icon SVG.
 {{ heroicon(icon, class, style) }}
 
 {# the default style is 'solid' #}
-{{ heroicon('academy-cap') }}
+{{ heroicon('academic-cap') }}
 
 {# use the 'outline' style #}
-{{ heroicon('academy-cap', '', 'outline') }}
+{{ heroicon('academic-cap', '', 'outline') }}
 
 {# Add a custom class to the SVG #}
-{{ heroicon('academy-cap', 'text-green-200', 'outline') }}
+{{ heroicon('academic-cap', 'text-green-200', 'outline') }}
 ```
 
 ## License
